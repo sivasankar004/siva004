@@ -6,7 +6,7 @@ namespace siva004
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("WELCOME to the World!");
+            Console.WriteLine("get into the World!");
         }
     }
 }
